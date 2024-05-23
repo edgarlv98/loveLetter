@@ -95,7 +95,6 @@ body {
     transition: transform 0.5s ease-in-out 1s;
     box-shadow: 0 1px 6px var(--shadow-color);
     cursor: pointer;
-    
 }
 
 .heart:before,
