@@ -136,3 +136,7 @@ body {
     transform: rotate(90deg);
     transition-delay: 0.4s;
 }
+
+.paragraphPadding {
+    padding-top: 10px;
+}

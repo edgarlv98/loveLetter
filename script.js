@@ -4,4 +4,4 @@ function showLetter () {
 
     const heart = document.getElementById('heart');
     heart.classList.toggle('heartMoved');
-}
+};
